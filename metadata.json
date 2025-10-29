@@ -1,0 +1,5 @@
+{
+  "name": "Oyun Etkisi Simülatörü",
+  "description": "A web application that analyzes the societal and psychological impacts of video games using Gemini AI, providing detailed reports and visual impact scores.",
+  "requestFramePermissions": []
+}
