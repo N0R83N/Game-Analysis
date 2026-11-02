@@ -1,20 +1,5 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Game Impact Simulator
 
-# Run and deploy your AI Studio app
+A bilingual (English and Turkish) web app that generates an overview of a video game's social and psychological effects. Reports cover benefits, risks, age suitability, addiction potential, and future outlook, with visual impact scores.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/13ir24-p-4vDgmSqBYrZtHieSHYAhYovS
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+The analysis is generated through the Gemini API. Provide an `API_KEY` through your development or deployment environment before running the app. The interface includes light and dark themes.
